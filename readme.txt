@@ -1,12 +1,7 @@
-sdksjdk
-sdjjkdsd
+This is a hand-on git project.
 
-sdjsdk
+Including:
 
-
-
-sdsdsds
-
-
-
-sdsdsds
++ Spider
++ Linear Regression
++ ...
